@@ -255,7 +255,7 @@ include "db.php";
                     <li>
                         <div class="w3_grid_effect">
                             <span class="cbp-ig-icon w3_users"></span>
-                            <h4 class="cbp-ig-title">Free Laundry Service*</h4>
+                            <h4 class="cbp-ig-title">Laundry Services*</h4>
                             <span class="cbp-ig-category">HostelDekho.com</span>
                         </div>
                     </li>
@@ -276,14 +276,14 @@ include "db.php";
         <div class="container">
             <div class="ab-w3l-spa">
                 <h3 class="title-w3-agileits title-black-wthree">About Our HostelDekho.com</h3>
-                <p class="about-para-w3ls">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Sed tempus vestibulum lacus blandit faucibus. Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, at imperdiet urna</p>
+                <p class="about-para-w3ls">This website shows refers you hostels only near GLA University, Mathura. We refer only verified profiles of the owner and photos of the rooms <br>(No Fake Details).</p>
                 <img src="images/about.jpg" class="img-responsive" alt="Hair Salon">
                 <div class="w3l-slider-img">
                     <img src="images/a1.jpg" class="img-responsive" alt="Hair Salon">
                 </div>
                 <div class="w3ls-info-about">
                     <h4>You'll love all the amenities we offer!</h4>
-                    <p>Lorem ipsum dolor sit amet, ut magna aliqua. </p>
+                    <p>We care for your privacy and comfort </p>
                 </div>
             </div>
             <div class="clearfix"> </div>
@@ -321,7 +321,7 @@ include "db.php";
         </div>
     </div>
     <!--//sevices-->
-    <!-- team -->
+    <!-- msm -->
     <div class="team" id="team">
         <div class="container">
             <h3 class="title-w3-agileits title-black-wthree">Meet Our Team</h3>
@@ -339,16 +339,22 @@ include "db.php";
                     <li>
                         <img src="images/teams4.jpg" alt=" " class="img-responsive" />
                     </li>
+                     <li>
+                        <img src="images/teams5.jpg" alt=" " class="img-responsive" />
+                    </li>
+                     <li>
+                        <img src="images/teams6.jpg" alt=" " class="img-responsive" />
+                    </li>
                 </ul>
                 <div class="resp-tabs-container">
                     <div class="tab1">
                         <div class="col-md-6 team-img-w3-agile">
                         </div>
                         <div class="col-md-6 team-Info-agileits">
-                            <h4>Lucas Jimenez</h4>
+                            <h4>Bhavy Gupta</h4>
                             <span>Manager</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.Lorem ipsum dolor .</p>
                             <div class="social-bnr-agileits footer-icons-agileinfo">
+                            <p>Bhavy Gupta role is to manage the website and back-end codes as he is Head of Coders Department</p>
                                 <ul class="social-icons3">
                                     <li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
                                     <li><a href="#" class="fa fa-twitter icon-border twitter"> </a></li>
@@ -363,15 +369,15 @@ include "db.php";
                         <div class="col-md-6 team-img-w3-agile">
                         </div>
                         <div class="col-md-6 team-Info-agileits">
-                            <h4>Sarah Connor</h4>
-                            <span>Receptionist</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.Lorem ipsum dolor .</p>
+                            <h4>Yug Garg</h4>
+                            <span>Head of Sales and Marketing</span>
+                            <p>Yug Garg role is built a network between the website admin and Hostel owners for updates and also the new comersin the GLA University sales and marketing department.</p>
                             <div class="social-bnr-agileits footer-icons-agileinfo">
                                 <ul class="social-icons3">
-                                    <li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
-                                    <li><a href="#" class="fa fa-twitter icon-border twitter"> </a></li>
-                                    <li><a href="#" class="fa fa-google-plus icon-border googleplus"> </a></li>
-                                    <li><a href="#" class="fa fa-rss icon-border rss"> </a></li>
+                                    <li><a href="https://www.facebook.com/king.yug36.garg/" class="fa fa-facebook icon-border facebook"> </a></li>
+                                    <li><a href="" class="fa fa-twitter icon-border twitter"> </a></li>
+                                    <li><a href="" class="fa fa-google-plus icon-border googleplus"> </a></li>
+                                    <li><a href="https://www.instagram.com/kingyuggarg36/" class="fa fa-rss icon-border rss"> </a></li>
                                 </ul>
                             </div>
                         </div>
@@ -381,12 +387,12 @@ include "db.php";
                         <div class="col-md-6 team-img-w3-agile">
                         </div>
                         <div class="col-md-6 team-Info-agileits">
-                            <h4>Ivan Simpson</h4>
-                            <span>Manager</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.Lorem ipsum dolor .</p>
+                            <h4>Vaseem Khan</h4>
+                            <span>Head of Design Team</span>
+                            <p>Vaseem Khan role is to make website design more attractive and simple which helps in saving client's time as well as make understand their needs.</p>
                             <div class="social-bnr-agileits footer-icons-agileinfo">
                                 <ul class="social-icons3">
-                                    <li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
+                                    <li><a href="https://www.facebook.com/VaseemKhan05" class="fa fa-facebook icon-border facebook"> </a></li>
                                     <li><a href="#" class="fa fa-twitter icon-border twitter"> </a></li>
                                     <li><a href="#" class="fa fa-google-plus icon-border googleplus"> </a></li>
                                     <li><a href="#" class="fa fa-rss icon-border rss"> </a></li>
@@ -399,9 +405,9 @@ include "db.php";
                         <div class="col-md-6 team-img-w3-agile">
                         </div>
                         <div class="col-md-6 team-Info-agileits">
-                            <h4>Marc Gutierrez</h4>
-                            <span>Receptionist</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.Lorem ipsum dolor .</p>
+                            <h4>Raunak Agarwal</h4>
+                            <span>Head of Business Development</span>
+                            <p>Raunak Agarwal role is to expand the network and covering cities and university's students.</p>
                             <div class="social-bnr-agileits footer-icons-agileinfo">
                                 <ul class="social-icons3">
                                     <li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
@@ -413,8 +419,38 @@ include "db.php";
                         </div>
                         <div class="clearfix"> </div>
                     </div>
-                </div>
-            </div>
+                    <div class="tab5">
+                        <div class="col-md-6 team-img-w3-agile">
+                        </div>
+                        <div class="col-md-6 team-Info-agileits">
+                            <h4>Yash Raj Singh</h4>
+                            <span>Architect</span>
+                            <p>Yash Raj role is to manage the flow of the data and maintain how the website will work in a sequence.</p>
+                            <div class="social-bnr-agileits footer-icons-agileinfo">
+                                <ul class="social-icons3">
+                                    <li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
+                                    <li><a href="#" class="fa fa-twitter icon-border twitter"> </a></li>
+                                    <li><a href="#" class="fa fa-google-plus icon-border googleplus"> </a></li>
+                                    <li><a href="#" class="fa fa-rss icon-border rss"> </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="tab6">
+                        <div class="col-md-6 team-img-w3-agile">
+                        </div>
+                        <div class="col-md-6 team-Info-agileits">
+                            <h4>Vinayak Jaiswal</h4>
+                            <span>Data Base Manager</span>
+                            <p>Vinayak Jaiswal role is to manage the data and maintain how the website will work in a sequence.</p>
+                            <div class="social-bnr-agileits footer-icons-agileinfo">
+                                <ul class="social-icons3">
+                                    <li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
+                                    <li><a href="#" class="fa fa-twitter icon-border twitter"> </a></li>
+                                    <li><a href="#" class="fa fa-google-plus icon-border googleplus"> </a></li>
+                                    <li><a href="#" class="fa fa-rss icon-border rss"> </a></li>
+                                </ul>
+                            </div>
+                        </div>
         </div>
     </div>
     <!-- //team -->
@@ -835,8 +871,8 @@ include "db.php";
             <div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile1" data-aos="flip-right">
                 <h4>Connect With Us</h4>
                 <p class="contact-agile1"><strong>Phone :</strong>+91-9084730909</p>
-                <p class="contact-agile1"><strong>Email :</strong> <a href="mailto:name@example.com">INFO@HOSTELDEKHO.COM</a></p>
-                <p class="contact-agile1"><strong>Address :</strong>GLA UNIVERSITY , MATHURA </p>
+                <p class="contact-agile1"><strong>Email :</strong> <a href="mailto:name@example.com">hosteldekho24x7@gmail.com</a></p>
+                <p class="contact-agile1"><strong>Address :</strong>GLA UNIVERSITY, MATHURA</p>
 
                 <iframe src="https://maps.google.com/maps?q=GLA%20university&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe>
             </div>
